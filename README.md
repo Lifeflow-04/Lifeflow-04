@@ -4,7 +4,7 @@
     <h><br></h>
     <h>A Chinese student.<br></h>
     <h>Currently learning to use Electron to write programs, <br>skilled in music production, JavaScript, HTML, and CSS<br></h>
-    <h>I am Chinese, so I am not good at English. Please forgive me.<br></h>
+    <h>I'm a Chinese, so I'm not good at English. Please forgive me.<br></h>
     <h>Version release and update plan: Not decided yet</h>
   </div>
   <br />
